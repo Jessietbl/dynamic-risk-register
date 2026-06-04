@@ -1,0 +1,6 @@
+date,asset_id,asset_type,hot_inlet_temp_c,hot_outlet_temp_c,cold_inlet_temp_c,cold_outlet_temp_c,pressure_drop_bar,fouling_index,alarm_count,inspection_score,maintenance_score,failure_event
+2025-01-01,HX-001,heat_exchanger,145,92,31,67,0.12,0.15,1,0.20,0.30,0
+2025-01-02,HX-001,heat_exchanger,148,101,32,61,0.21,0.27,3,0.40,0.50,0
+2025-01-03,HX-001,heat_exchanger,151,119,33,49,0.48,0.71,9,0.80,0.90,1
+2025-01-04,HX-001,heat_exchanger,152,123,34,47,0.55,0.83,12,0.90,0.95,1
+2025-01-05,HX-001,heat_exchanger,144,90,31,69,0.10,0.12,1,0.20,0.30,0
