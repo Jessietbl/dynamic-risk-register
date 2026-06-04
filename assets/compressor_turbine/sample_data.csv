@@ -1,0 +1,6 @@
+date,asset_id,asset_type,vibration_rms_mm_s,bearing_temp_c,lube_oil_pressure_bar,seal_gas_dp_bar,alarm_count,inspection_score,maintenance_score,failure_event
+2025-01-01,CMP-001,compressor_turbine,3.2,68,4.8,0.32,2,0.30,0.40,0
+2025-01-02,CMP-001,compressor_turbine,4.1,72,4.5,0.36,4,0.40,0.50,0
+2025-01-03,CMP-001,compressor_turbine,6.8,89,3.8,0.61,11,0.80,0.90,1
+2025-01-04,CMP-001,compressor_turbine,7.2,93,3.5,0.70,13,0.90,0.95,1
+2025-01-05,CMP-001,compressor_turbine,3.1,66,5.0,0.29,1,0.20,0.30,0
